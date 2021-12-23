@@ -5,3 +5,4 @@ This tutorial mainly focus on git step by step
 
 This repository is built step by step in the tutorial.
 It now include with gitHub
+This is for branch push to gitHub. Programmer: Linkan Roy.
